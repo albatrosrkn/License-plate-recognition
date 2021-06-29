@@ -1,0 +1,1 @@
+The project was developed in python 3.8 in a python-language spyder environment. It can be run in any python environment to run the program. Photos of the plates must be in the same folder as the project file when running. When the program runs in exe, the name of the photo file in png format is first entered (only the name without extension). Then the program runs.
